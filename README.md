@@ -14,6 +14,12 @@ colored pencil on recycled brown paper, 2015
 pencil on paper, 2014
 <br><br>
 
+*The Heat Ray, Explained*
+<br>
+[Available online](https://drive.google.com/open?id=0B33mqnSd1JA9VWRnTl81TmJEeXc)
+3D animation and rendering in Autodesk Maya, 2015
+<br><br>
+
 ![pbj](https://raw.githubusercontent.com/nduckwiler/artwork/master/pbj.jpg)
 *pbj*
 <br>
