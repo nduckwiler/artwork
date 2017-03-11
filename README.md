@@ -17,6 +17,7 @@ pencil on paper, 2014
 *The Heat Ray, Explained*
 <br>
 [Available online](https://drive.google.com/open?id=0B33mqnSd1JA9VWRnTl81TmJEeXc)
+<br>
 3D animation and rendering in Autodesk Maya, 2015
 <br><br>
 
