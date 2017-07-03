@@ -13,11 +13,12 @@ colored pencil on recycled brown paper, 2015
 pencil on paper, 2014
 <br><br>
 
+![heatRay](https://raw.githubusercontent.com/nduckwiler/artwork/master/heatRay.png)
 *The Heat Ray, Explained*
 <br>
-[Available online](https://drive.google.com/open?id=0B33mqnSd1JA9VWRnTl81TmJEeXc)
-<br>
 3D animation and rendering in Autodesk Maya, 2015
+<br>
+[Available online](https://drive.google.com/open?id=0B33mqnSd1JA9VWRnTl81TmJEeXc)
 <br><br>
 
 ![self-motivation](https://raw.githubusercontent.com/nduckwiler/artwork/master/self-motivation.jpg)
