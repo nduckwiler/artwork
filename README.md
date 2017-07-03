@@ -1,7 +1,6 @@
 # artwork
 Here you will find a sampling of my work outside of programming.
 
-
 ![reach](https://raw.githubusercontent.com/nduckwiler/artwork/master/reach.jpg)
 *Reach*
 <br>
@@ -19,6 +18,12 @@ pencil on paper, 2014
 [Available online](https://drive.google.com/open?id=0B33mqnSd1JA9VWRnTl81TmJEeXc)
 <br>
 3D animation and rendering in Autodesk Maya, 2015
+<br><br>
+
+![self-motivation](https://raw.githubusercontent.com/nduckwiler/artwork/master/self-motivation.jpg)
+*Self-Motivation*
+<br>
+ink pen on paper, 2017
 <br><br>
 
 ![pbj](https://raw.githubusercontent.com/nduckwiler/artwork/master/pbj.jpg)
